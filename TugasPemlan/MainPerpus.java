@@ -17,7 +17,7 @@ public class MainPerpus {
             System.out.println("7. Fiksi");
             System.out.println("8. Total buku yang ada di perpustakaan");
             System.out.println("9. Keluar");
-            System.out.print("Masukkan pilihan Anda: ");
+            System.out.print("Masukkan pilihan: ");
             int choice = scanner.nextInt();
 
             switch (choice) {

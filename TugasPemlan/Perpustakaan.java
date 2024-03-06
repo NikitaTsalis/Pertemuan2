@@ -52,7 +52,7 @@ public class Perpustakaan {
     public String[][] Fiksi = {
             {"The Night Circus", "Erin Morgenstern", "528", "Anchor Books", "2012"},
             {"The Book Thief", "Markus Zusak", "552", "Knopf", "2005"},
-            {"To Kill a Mockingbird", "Harper Lee", "323", "Grand Central Publishing", "2006"},
+            {"To Kill a Mockingbird", "Harper Lee", "323", "Grand Central Publishing", "2010"},
             {"The Great Gatsby", "F. Scott Fitzgerald", "200", "Scribner", "2014"},
             {"The Catcher in the Rye", "J.D. Salinger", "277", "Back Bay Books", "2001"}  
     };
